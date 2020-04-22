@@ -1,0 +1,42 @@
+.counter-app {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 3rem;
+}
+
+.counter-app output {
+	vertical-align: middel;
+}
+
+output {
+	display: inline-block;
+	width: 1.4em;
+	text-align: center;
+	user-select: none;
+	padding: 0 0.2rem 0 0;
+	font-size: 100px;
+	color: #0e8ffc;
+}
+
+button {
+	user-select: none;
+	cursor: pointer;
+	color: #0e8ffc;
+	background: transparent;
+	border: none;
+	font-size: 60px;
+	font-weight: 200;
+}
+
+button:hover,
+button:focus {
+	color: #101c25
+}
+button:focus {
+	outline: none
+}
+
+.button-increment {
+	order: -1
+}
