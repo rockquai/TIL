@@ -1,0 +1,52 @@
+.List {
+}
+.List table {
+  width: 100%;
+}
+.List table .w1 {
+  width: 15%;
+}
+.List table .w2 {
+  width: 7%;
+}
+.List table .w3 {
+  width: 40%;
+}
+.List table .w4 {
+}
+.List table thead {
+}
+.List table thead tr {
+}
+.List table thead tr th {
+  border: 1px solid #dcdcdc;
+  height: 50px;
+  vertical-align: middle;
+}
+.List table tbody {
+}
+.List table tbody tr {
+}
+.List table tbody td {
+  border: 1px solid #dcdcdc;
+  padding: 15px 0;
+  text-indent: 20px;
+  font-size: 18px;
+}
+.List table tbody td:nth-child(-n + 2) {
+  text-align: center;
+  text-indent: 0;
+}
+.List table tbody td img {
+  width: 80px;
+}
+.List table tbody tr:hover td {
+  background: #eceff1;
+}
+.ir_caption{
+	overflow:hidden;
+	width:1px;
+	font-size:1px;
+	line-height:0;
+	text-indent:-9999px
+}

@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+ul,
+li,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+table,
+th,
+td,
+address,
+p {
+  margin: 0;
+  padding: 0;
+  color: #666;
+  font-family: "맑은 고딕";
+  font-size: 14px;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  line-height: 1.5;
+}
+ul,
+li {
+  list-style: none;
+}
+img {
+  vertical-align: top;
+}
+img,
+fieldset {
+  border: 0;
+}
+address,
+em {
+  font-style: normal;
+}
+a {
+  color: #666;
+  text-decoration: none;
+}
+table {
+  border-collapse: collapse;
+}
+
+.Music {
+  width: 1200px;
+  margin: auto;
+}
+.Music h1 {
+  font-size: 50px;
+  padding: 30px 10px;
+}

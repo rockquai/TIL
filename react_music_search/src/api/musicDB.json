@@ -1,0 +1,29 @@
+{
+	"music": [
+		{
+			"id": 0,
+			"rank": 1,
+			"title": "Blueming",
+			"singer": "아이유 (IU)",
+			"poster": "//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/613/81297613_1574066356132_1_140x140.JPG",
+			"state": "유지"
+		},
+		{
+			"id": 1,
+			"rank": 2,
+			"title": "늦은 밤 너의 집 앞 골목길에서",
+			"singer": "노을",
+			"poster": "//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/302/841/81302841_1573114099166_1_140x140.JPG",
+			"state": "상승"
+		},
+		{
+			"id": 2,
+			"rank": 3,
+			"title": "unlucky",
+			"singer": "아이유 (IU)",
+			"poster": "//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/297/613/81297613_1574066356132_1_140x140.JPG",
+			"state": "상승"
+		}
+	],
+	"keyword" : ""
+}
