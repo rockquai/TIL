@@ -23,3 +23,11 @@
 - [ES6] 배열
 - [ES6] 컬렉션: Set, WeakSet
 ---
+## WEEK03
+- 객체지향 JavaScript(OOJS, Object Oriented JS)
+- 생성자(Constructor) / 프로토타입(Prototype)
+- 상속(Inheritance) / 합성(Mixin)
+- [ES6] 객체
+- [ES6] 클래스
+- [ES6] 심볼
+- [ES6] 컬렉션: Map, WeakMap
